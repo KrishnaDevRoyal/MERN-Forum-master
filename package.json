@@ -9,7 +9,7 @@
     "dev": "nodemon src/index"
   },
   "dependencies": {
-    "homepage": https://github.com/KrishnaDevRoyal/MERN-Forum-master
+    "homepage": "https://github.com/KrishnaDevRoyal/MERN-Forum-master/tree/main"
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "dotenv": "^8.6.0",

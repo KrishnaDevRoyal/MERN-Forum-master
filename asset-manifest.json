@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KrishnaDevRoyal/MERN-Forum-master/tree/main/static/css/main.4f5fc633.css",
+    "main.js": "/KrishnaDevRoyal/MERN-Forum-master/tree/main/static/js/main.99a9eb79.js",
+    "index.html": "/KrishnaDevRoyal/MERN-Forum-master/tree/main/index.html",
+    "main.4f5fc633.css.map": "/KrishnaDevRoyal/MERN-Forum-master/tree/main/static/css/main.4f5fc633.css.map",
+    "main.99a9eb79.js.map": "/KrishnaDevRoyal/MERN-Forum-master/tree/main/static/js/main.99a9eb79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5fc633.css",
+    "static/js/main.99a9eb79.js"
+  ]
+}
